@@ -1,0 +1,13 @@
+SECRET SANTA, CISCO EDITION:
+
+usage: secret_santa.py [-h] [-i INPUT]
+
+Secret Santa!
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+
+
+format of the input file is one name per line. only standard text file are
+supported.
